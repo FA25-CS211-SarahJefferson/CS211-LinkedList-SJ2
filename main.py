@@ -29,7 +29,7 @@ def main():
     # Get the length of the ll
     ll.len(head)
     ll.display(head)
-    
+
     # Search for an element in the ll
 
     # Search for an element that does not exist in the ll
@@ -37,6 +37,8 @@ def main():
         # else and using comparisions)
 
     # Delete an element in the ll
+    head = ll.del(50)
+    ll.display(head)
 
     # Get final length of the ll (very similar to line 19)
 

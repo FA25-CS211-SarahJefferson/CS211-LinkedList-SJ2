@@ -229,7 +229,7 @@ def delete_node(head, data):
     return head
 
 
- """
+"""
     Search for a node containing the specified data value.
     
     This function traverses the linked list from the beginning and searches
